@@ -1,3 +1,3 @@
 # Portfolio Site
 
-## [Click here](https://evmaloney.github.io/) to view my portfolio
+## [Click here](www.evanmaloney.com) to view my portfolio
